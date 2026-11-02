@@ -1,0 +1,6 @@
+{
+  "name": "Spine & Slip — Boutique Physical Media Radar",
+  "description": "Archival physical media collector vault and real-time price, restock, and limited edition radar across 19 boutique video labels and major retailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
